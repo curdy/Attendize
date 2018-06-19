@@ -1,18 +1,3 @@
-<p align="center">
-  <img src="https://www.attendize.com/img/logo-dark.png" alt="Attendize"/>
-  <img style='border: 1px solid #444;' src="https://attendize.com/img/screenshots/screen1.PNG" alt="Attendize"/>
-</p>
-
-<h1>Attendize</h1>
-<p>
-Open-source ticket selling and event management platform
-</p>
-
-https://www.attendize.com
-
-> PLEASE NOTE: Attendize is in the early stages of development and therefore is likely to contain bugs and unfinished features.
-
-> Please ask any questions/report bugs in our new support forum: https://attendize.com/forum/
 
 Demo Event Page: http://attendize.website/e/799/attendize-test-event-w-special-guest-attendize
 ---
@@ -59,11 +44,6 @@ Roadmap
  - Support for more payment providers
  - WordPress Plug-in 
 
-Official Documentation
----
-
-Limited Documentation available at https://www.attendize.com/documentation.php. Github will be updated with more comprehensive documentation soon.
-
 
 Contribution
 ---
@@ -89,17 +69,4 @@ docker-compose run php php artisan attendize:install
 
 Attendize will be available at `http://localhost:8080` and maildev at `http://localhost:1080`
 
-License
----
 
-Attendize is open-sourced software licensed under the Attribution Assurance License. See [https://www.attendize.com/licence.php](https://www.attendize.com/licence.php) for further details. We also have white-label licence options available.
-
-Contributors 
----
-
-* Brett B ([Github](https://github.com/bretto36))
-* G0dLik3 ([Github](https://github.com/G0dLik3))
-* Honoré Hounwanou ([Github](http://github.com/mercuryseries)) <mercuryseries@gmail.com>
-* James Campbell ([Github](https://github.com/jncampbell))
-* JapSeyz ([Github](https://github.com/JapSeyz))
-* Mark Walet ([Github](https://github.com/markwalet))
